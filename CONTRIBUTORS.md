@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Devon Starr
+- Photo: https://scontent-sea1-1.cdninstagram.com/vp/938f3fc097501674f8a5e5ce92776e02/5DF39202/t51.2885-19/s150x150/21147450_815829148590691_8528699121547083776_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com
+- Location: Portsmouth, NH, USA
+- Bio: Student | Programmer | Interested in all things technology.
+- Github: https://github.com/dstarr11
